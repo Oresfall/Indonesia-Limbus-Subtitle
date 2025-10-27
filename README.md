@@ -5,5 +5,6 @@ Untuk progressnya bisa dilihat dibawah ya, namun kalau misalnya ingin bantu, bis
 Fansub akan baru bisa di pakai setelah Progres Cerita dan Skill IDs sudah diterjemahkan. 
 
 
-## Progres Cerita (Hari ke: 2)
-- Canto 0: 5/7 Episodes
+## Progres Cerita (Hari ke: 3)
+- Canto 0: Selesai!
+- Canto 1: 1/30
