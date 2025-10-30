@@ -11,5 +11,5 @@ Fansub akan baru bisa di pakai setelah Progres Cerita dan Skill IDs sudah diterj
 
 ## Progres Gameplay
 - EGO:
-  > Don Quixote: Selesai!
-  > Yi Sang: Selesai!
+  - Don Quixote: Selesai!
+  - Yi Sang: Selesai!
