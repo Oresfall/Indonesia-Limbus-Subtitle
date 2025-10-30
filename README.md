@@ -5,6 +5,11 @@ Untuk progressnya bisa dilihat dibawah ya, namun kalau misalnya ingin bantu, bis
 Fansub akan baru bisa di pakai setelah Progres Cerita dan Skill IDs sudah diterjemahkan. 
 
 
-## Progres Cerita (Hari ke: 3)
+## Progres Cerita (Hari ke: 5)
 - Canto 0: Selesai!
-- Canto 1: 1/30
+- Canto 1: 6/30
+
+## Progres Gameplay
+- EGO:
+  > Don Quixote: Selesai!
+  > Yi Sang: Selesai!
